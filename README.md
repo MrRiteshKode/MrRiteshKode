@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ritesh kumarand I'm am from India</p>
+<p align="left">My name is Ritesh kumar and I'm am from India</p>
 
 ###
 
